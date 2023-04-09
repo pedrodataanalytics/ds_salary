@@ -1,2 +1,4 @@
 # Data Science Salary Project
-# test asdasd
+## Disclamer
+This project was built based on "Data Science Project from Scratch"
+from Ken Jee Youtube channel.
